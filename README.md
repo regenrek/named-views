@@ -1,2 +1,1 @@
-# named-views
-Created with CodeSandbox
+# Nuxt with named views
